@@ -1,2 +1,2 @@
 # python-face-and-hand-tracking-meme
-its a project i seen on tiktok and tried to remake 
+Its a project using libraries like mediapipe and opencv inspired by a video i have seen on tiktok 
